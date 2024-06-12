@@ -1,4 +1,5 @@
-// TODO: Fix original "mesh is not closed" error
+// ALERT: Original will not render in OpenSCAD and shows "The given mesh is not closed" error
+// See notes in README.md, and in comments below for instructions to fix the issue.
 include <denture_bit_holder_common.scad>
 
 difference() {
